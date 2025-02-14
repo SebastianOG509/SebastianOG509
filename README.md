@@ -35,9 +35,9 @@
 🌱 Always eager to **learn, optimize, and contribute** to impactful projects.  
 
 ## 📬 Get in Touch  
-📧 **Email:** seortizg@unal.edu.co 
-💼 **GitHub:** SebastianOG509
-📱 **LinkedIn:** https://www.linkedin.com/in/sebastian-ortiz-gonzalez-9b5307275/  
+📧 **Email:** seortizg@unal.edu.co.
+💼 **GitHub:** SebastianOG509.
+📱 **LinkedIn:** https://www.linkedin.com/in/sebastian-ortiz-gonzalez-9b5307275/.
 
 
 <!--
