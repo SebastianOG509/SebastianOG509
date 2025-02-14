@@ -1,4 +1,4 @@
-## Hi there, I´m Sebastian 👋
+# Hi there, I´m Sebastian 👋
 
 ## 🚀 About Me  
 🎓 **Systems and Computer Engineering Student** at National University of Colombia (8th semester).  
